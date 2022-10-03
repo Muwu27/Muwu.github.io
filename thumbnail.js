@@ -1,2 +1,6 @@
 let targetImage = document.querySelector("#smart-image");
-targetImage.classList.remove("small");
+targetImage.addEventListener("click", function() {
+    targetImage.classList.remove("small");    
+});
+
+
