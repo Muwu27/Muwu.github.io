@@ -5,3 +5,7 @@ body{
 main{
   display: flex；
   flex-direction:row}
+aside{
+  flex: 1}
+article{
+  flex: 3}
