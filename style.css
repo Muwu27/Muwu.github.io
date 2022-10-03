@@ -1,3 +1,4 @@
 a:hover{color:green}
-body,main{display: flex}
+body{display: flex}
+main{display: flex}
 header,main,footer{flex-direction: column}
