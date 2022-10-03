@@ -1,4 +1,2 @@
 a:hover{color:green}
-body{display: flex}
-main{display: flex}
-header,main,footer{flex-direction: column}
+body{flex-direction: column}
